@@ -1,1 +1,1 @@
-# azeri
+# Repository of Academic/Personal Projects
